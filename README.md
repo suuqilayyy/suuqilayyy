@@ -1,4 +1,4 @@
-[Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;there;!)
+##Hi there 👋!
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=suuqilayyy)](https://github.com/suuqilayyy/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suuqilayyy)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=suuqilayyy&left_color=green&right_color=red)
