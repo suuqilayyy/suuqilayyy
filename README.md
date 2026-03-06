@@ -4,4 +4,5 @@
 
 爱自己 是终身浪漫的开始
 愿你看见自己的光 也看见照亮世界的你
--🌱 I’m currently learning Python, ML, Quantum Computing
+
+#🌱 I’m currently learning Python, ML, Quantum Computing
