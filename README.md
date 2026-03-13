@@ -2,4 +2,4 @@
 
 
 
-🌱 I’m currently learning Python, ML，DL
+🌱 I’m currently learning Python, ML, DL, RL
